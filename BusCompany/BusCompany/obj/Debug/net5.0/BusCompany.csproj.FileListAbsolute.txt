@@ -1,0 +1,12 @@
+/Users/schemabuoi/Developer/Other/BusCompany/bin/Debug/net5.0/BusCompany.deps.json
+/Users/schemabuoi/Developer/Other/BusCompany/bin/Debug/net5.0/BusCompany.dll
+/Users/schemabuoi/Developer/Other/BusCompany/bin/Debug/net5.0/ref/BusCompany.dll
+/Users/schemabuoi/Developer/Other/BusCompany/bin/Debug/net5.0/BusCompany.pdb
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.csprojAssemblyReference.cache
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.AssemblyInfoInputs.cache
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.AssemblyInfo.cs
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.csproj.CoreCompileInputs.cache
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.dll
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/ref/BusCompany.dll
+/Users/schemabuoi/Developer/Other/BusCompany/obj/Debug/net5.0/BusCompany.pdb
